@@ -11,7 +11,7 @@ require (
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/golangci/golangci-lint v1.49.0
 	github.com/google/go-github v17.0.0+incompatible
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.3.1
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-changelog v0.0.0-20220419201213-5edfc0d651d8
 	github.com/hashicorp/go-cleanhttp v0.5.2
