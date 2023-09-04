@@ -1,0 +1,3 @@
+```release-note:dependency
+provider: bumps golang.org/x/oauth2 from 0.0.0-20220718184931-c8730f7fcb92 to 0.11.0
+```
