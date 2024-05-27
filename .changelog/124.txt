@@ -1,0 +1,3 @@
+```release-note:dependency
+provider: bumps github.com/bflad/tfproviderlint from 0.28.1 to 0.30.0
+```
