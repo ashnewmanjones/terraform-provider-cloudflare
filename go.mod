@@ -7,7 +7,7 @@ require (
 	github.com/apparentlymart/go-cidr v1.1.0 // indirect
 	github.com/bflad/tfproviderlint v0.28.1
 	github.com/client9/misspell v0.3.4
-	github.com/cloudflare/cloudflare-go v0.49.0
+	github.com/cloudflare/cloudflare-go v0.103.0
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/golangci/golangci-lint v1.49.0
 	github.com/google/go-github v17.0.0+incompatible
@@ -31,19 +31,19 @@ require (
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/zclconf/go-cty v1.10.0 // indirect
-	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
-	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/crypto v0.26.0 // indirect
+	golang.org/x/net v0.28.0
 	golang.org/x/oauth2 v0.0.0-20220718184931-c8730f7fcb92
-	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
-	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/time v0.0.0-20220224211638-0e9765cccd65 // indirect
+	golang.org/x/sys v0.23.0 // indirect
+	golang.org/x/text v0.17.0 // indirect
+	golang.org/x/time v0.5.0 // indirect
 )
 
 require (
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320
 	github.com/hashicorp/terraform-plugin-log v0.7.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
@@ -103,6 +103,7 @@ require (
 	github.com/go-toolsmith/typep v1.0.2 // indirect
 	github.com/go-xmlfmt/xmlfmt v0.0.0-20191208150333-d5b6f63a941b // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
+	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golangci/check v0.0.0-20180506172741-cfe4005ccda2 // indirect
@@ -114,7 +115,7 @@ require (
 	github.com/golangci/misspell v0.3.5 // indirect
 	github.com/golangci/revgrep v0.0.0-20220804021717-745bb2f7c2e6 // indirect
 	github.com/golangci/unconvert v0.0.0-20180507085042-28b1c447d1f4 // indirect
-	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gordonklaus/ineffassign v0.0.0-20210914165742-4cc7213b9bc8 // indirect
 	github.com/gostaticanalysis/analysisutil v0.7.1 // indirect
@@ -122,7 +123,6 @@ require (
 	github.com/gostaticanalysis/forcetypeassert v0.1.0 // indirect
 	github.com/gostaticanalysis/nilerr v0.1.1 // indirect
 	github.com/hashicorp/go-checkpoint v0.5.0 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.1 // indirect
 	github.com/hashicorp/go-version v1.6.0 // indirect
 	github.com/hashicorp/hc-install v0.4.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
@@ -207,7 +207,7 @@ require (
 	github.com/spf13/viper v1.12.0 // indirect
 	github.com/ssgreg/nlreturn/v2 v2.2.1 // indirect
 	github.com/stbenjam/no-sprintf-host-port v0.1.1 // indirect
-	github.com/stretchr/objx v0.4.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/subosito/gotenv v1.4.0 // indirect
 	github.com/sylvia7788/contextcheck v1.0.6 // indirect
 	github.com/tdakkota/asciicheck v0.1.1 // indirect
@@ -231,9 +231,9 @@ require (
 	go.uber.org/zap v1.17.0 // indirect
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/exp/typeparams v0.0.0-20220722155223-a9213eeb770e // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
-	golang.org/x/tools v0.1.13-0.20220812184215-3f9b119300de // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/sync v0.8.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220519153652-3a47de7e79bd // indirect
 	google.golang.org/grpc v1.48.0 // indirect
